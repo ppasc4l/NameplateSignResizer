@@ -3,7 +3,6 @@
        "Author":"Angel.Wings_FPC-PM",
        "AcceptsFeedback": true,
        "ApplicableVersion": "any",
-       "AssemblyVersion": "2.0.0.0",
        "DalamudApiLevel": 8,
        "DownloadLinkInstall": "https://github.com/AngelSeed/NameplateSignResizer/releases/download/V2/NameplateSignResizer.zip",
        "DownloadLinkTesting": "https://github.com/AngelSeed/NameplateSignResizer/releases/download/V2/NameplateSignResizer.zip",
