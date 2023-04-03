@@ -1,26 +1,19 @@
 [
     {
-        "Author":"FPC-PM",
-        "Name":"Angel Wings",
-        "Description":"Nameplate Resize targetmarker   Disabled in PvP",
-        "InternalName":"NameplateSignResizer",
-        "AssemblyVersion":"V2",
-        "RepoUrl":"https://github.com/AngelSeed/NameplateSignResizer",
-        "ApplicableVersion":"any",
-        "Tags":[
-               "Nameplate"
-               "Sign"
-               "target"
-               "marker"
-         ],
-        "DalamudApiLevel":8,
-        "LoadPriority":0,
-        "IsHide":"False",
-        "IsTestingExclusive":"False",
-        "LastUpdated":0,
-        "DownloadCount":0,
-        "DownloadLinkInstall":"https://github.com/AngelSeed/NameplateSignResizer/releases/download/V2/NameplateSignResizer.zip",
-        "DownloadLinkTesting":"https://github.com/AngelSeed/NameplateSignResizer/releases/download/V2/NameplateSignResizer.zip",
-        "DownloadLinkUpdate":"https://github.com/AngelSeed/NameplateSignResizer/releases/download/V2/NameplateSignResizer.zip",
+       "AcceptsFeedback": true,
+       "ApplicableVersion": "any",
+       "AssemblyVersion": "2.0.0.0",
+       "DalamudApiLevel": 8,
+       "DownloadLinkInstall": "https://github.com/AngelSeed/NameplateSignResizer/releases/download/V2/NameplateSignResizer.zip",
+       "DownloadLinkTesting": "https://github.com/AngelSeed/NameplateSignResizer/releases/download/V2/NameplateSignResizer.zip",
+       "DownloadLinkUpdate": "https://github.com/AngelSeed/NameplateSignResizer/releases/download/V2/NameplateSignResizer.zip",
+       "InternalName": "NameplateSignResizer",
+       "IsHide": "False",
+       "IsTestingExclusive": "False",
+       "LoadPriority": 0,
+       "LoadRequiredState": 0,
+       "LoadSync": false,
+       "Name": "NameplateSignResizer",
+       "RepoUrl": "https://github.com/AngelSeed/NameplateSignResizer"
     }
 ]
