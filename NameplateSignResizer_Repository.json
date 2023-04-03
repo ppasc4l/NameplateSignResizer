@@ -1,5 +1,6 @@
 [
     {
+       "Author":"FPC-PM",
        "AcceptsFeedback": true,
        "ApplicableVersion": "any",
        "AssemblyVersion": "2.0.0.0",
@@ -13,7 +14,7 @@
        "LoadPriority": 0,
        "LoadRequiredState": 0,
        "LoadSync": false,
-       "Name": "NameplateSignResizer",
+       "Name": "Angel Wings",
        "RepoUrl": "https://github.com/AngelSeed/NameplateSignResizer"
     }
 ]
