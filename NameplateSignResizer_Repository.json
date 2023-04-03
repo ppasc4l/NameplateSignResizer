@@ -14,13 +14,13 @@
                "marker"
          ],
         "DalamudApiLevel":8,
-        "LoadPriority":,
+        "LoadPriority":0,
         "IsHide":"False",
         "IsTestingExclusive":"False",
         "LastUpdated":0,
         "DownloadCount":0,
-        "DownloadLinkInstall":"https://github.com/AngelSeed/NameplateSignResizer/releases/download/V2/NameplateSignResizer.zip ",
-        "DownloadLinkTesting":"https://github.com/AngelSeed/NameplateSignResizer/releases/download/V2/NameplateSignResizer.zip ",
-        "DownloadLinkUpdate":"https://github.com/AngelSeed/NameplateSignResizer/releases/download/V2/NameplateSignResizer.zip "
+        "DownloadLinkInstall":"https://github.com/AngelSeed/NameplateSignResizer/releases/download/V2/NameplateSignResizer.zip",
+        "DownloadLinkTesting":"https://github.com/AngelSeed/NameplateSignResizer/releases/download/V2/NameplateSignResizer.zip",
+        "DownloadLinkUpdate":"https://github.com/AngelSeed/NameplateSignResizer/releases/download/V2/NameplateSignResizer.zip",
     }
 ]
