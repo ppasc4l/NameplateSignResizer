@@ -6,7 +6,6 @@
        "DalamudApiLevel": 8,
        "DownloadLinkInstall": "https://github.com/AngelSeed/NameplateSignResizer/releases/download/V2/NameplateSignResizer.zip",
        "DownloadLinkTesting": "https://github.com/AngelSeed/NameplateSignResizer/releases/download/V2/NameplateSignResizer.zip",
-       "DownloadLinkUpdate": "https://github.com/AngelSeed/NameplateSignResizer/releases/download/V2/NameplateSignResizer.zip",
        "InternalName": "NameplateSignResizer",
        "LoadPriority": 0,
        "LoadRequiredState": 0,
