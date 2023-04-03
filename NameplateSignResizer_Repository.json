@@ -9,8 +9,6 @@
        "DownloadLinkTesting": "https://github.com/AngelSeed/NameplateSignResizer/releases/download/V2/NameplateSignResizer.zip",
        "DownloadLinkUpdate": "https://github.com/AngelSeed/NameplateSignResizer/releases/download/V2/NameplateSignResizer.zip",
        "InternalName": "NameplateSignResizer",
-       "IsHide": "False",
-       "IsTestingExclusive": "any",
        "LoadPriority": 0,
        "LoadRequiredState": 0,
        "LoadSync": false,
